@@ -1,0 +1,7 @@
+Español = float(input("digite su calificacion"))
+Matemáticas = float(input("digite su calificacion"))
+Economía = float(input("digite su calificacion"))
+Programación = float(input("digite su calificacion"))
+Ingles = float(input("digite su calificacion"))
+pro = ((Español+Matemáticas+Economía+Programación+Ingles)/5)
+print("el promedio del alumno es: " , (pro))
